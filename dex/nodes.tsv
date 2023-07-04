@@ -1,17 +1,17 @@
-20220301063411	2022-03-01 06:34:11Z	Chaotic AUR
-20220301064552	2022-03-01 06:45:52Z	Pacman script
-20220301131954	2022-03-01 13:19:54Z	Cursor themes on Linux
-20220301142755	2022-03-01 14:27:55Z	Force quit applications in Linux
-20220301144638	2022-03-01 14:46:38Z	Git's default editor
-20220302050516	2022-03-02 05:05:16Z	Scroll speed Xorg
-20220302061607	2022-03-02 06:16:07Z	Window titles and classes in i3wm
-20220302140142	2022-03-02 14:01:42Z	Tenses in English
-20220303123931	2022-03-03 12:39:31Z	Fibonacci layout in I3WM
-20220303141029	2022-03-03 14:10:29Z	Weather python script
-20220305073812	2022-03-05 07:38:12Z	Zathura
-20220306104230	2022-03-06 10:42:30Z	Pacman is in use error
-20220313173747	2022-03-13 17:37:47Z	Waydroid
-20220314095226	2022-03-14 09:52:26Z	Restart KDE Plasma (*terminal* method)
-20220524175101	2022-05-24 17:51:01Z	Fix: quiting neovim takes time
-20220524181656	2022-05-24 18:16:56Z	How to uninstall compiled version of neovim
-20220524182159	2022-05-24 18:21:59Z	How to make symlinks in Linux/BSD 
+1	2022-03-01 06:34:11Z	Chaotic AUR
+2	2022-03-01 06:45:52Z	Pacman script
+3	2022-03-01 13:19:54Z	Cursor themes on Linux
+4	2022-03-01 14:27:55Z	Force quit applications in Linux
+5	2022-03-01 14:46:38Z	Git's default editor
+6	2022-03-02 05:05:16Z	Scroll speed Xorg
+7	2022-03-02 06:16:07Z	Window titles and classes in i3wm
+8	2022-03-02 14:01:42Z	Tenses in English
+9	2022-03-03 12:39:31Z	Fibonacci layout in I3WM
+10	2022-03-03 14:10:29Z	Weather python script
+11	2022-03-05 07:38:12Z	Zathura
+12	2022-03-06 10:42:30Z	Pacman is in use error
+13	2022-03-13 17:37:47Z	Waydroid
+14	2022-03-14 09:52:26Z	Restart KDE Plasma (*terminal* method)
+15	2022-05-24 17:51:01Z	Fix: quiting neovim takes time
+16	2022-05-24 18:16:56Z	How to uninstall compiled version of neovim
+17	2022-05-24 18:21:59Z	How to make symlinks in Linux/BSD 

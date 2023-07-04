@@ -1,4 +1,3 @@
-* 2023-07-05 01:02:22Z [Sample content node](../18)
 * 2022-05-24 18:21:59Z [How to make symlinks in Linux/BSD](../17)
 * 2022-05-24 18:16:56Z [How to uninstall compiled version of neovim](../16)
 * 2022-05-24 17:51:01Z [Fix: quiting neovim takes time](../15)

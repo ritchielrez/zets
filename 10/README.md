@@ -8,5 +8,3 @@ lets suppose **New York**. Then after searching for it, and selecting the right 
 In the url bar, there will be City number, after this part of link https://openweathermap.org/city/. 
 Copy it, paste it after `CITY=`, in between quotations. Then run it, you should get your weather info 
 automatically with python, which you can used to make a weather module in polybar.  
-
-Checkout my polybar config for that. [Ritchiel Rez's polybar config](https://github.com/ritchielrez/dotfiles-new/tree/main/.config/polybar), and then search for the module in `modules.ini` file.

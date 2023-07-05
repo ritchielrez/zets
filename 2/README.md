@@ -1,4 +1,4 @@
-## Pacman script
+# Pacman script
 
 There is no need for me anymore to use **paru** to download Arch Linux 
 packages. Because [Chaotic AUR](../../zets/20220301063411/README.md) can integrate 

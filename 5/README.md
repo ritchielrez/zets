@@ -1,4 +1,4 @@
-## Git's default editor
+# Git's default editor
 
 Set any editor to the default editor for **git**, to commit
 or resolve conflicts. Run this command in the terminal:

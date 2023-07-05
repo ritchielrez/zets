@@ -1,4 +1,4 @@
-## How to uninstall compiled version of neovim
+# How to uninstall compiled version of neovim
 
 Solution from this github issue: https://github.com/neovim/neovim/issues/1415
 

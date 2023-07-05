@@ -1,4 +1,4 @@
-## Scroll speed Xorg
+# Scroll speed Xorg
 
 To change the scrolling speed in Xorg, specially in a tiling window manager,
 you need xinput, which you can install in Arch Linux, by installing this

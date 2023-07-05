@@ -1,4 +1,4 @@
-## Force quit applications in Linux
+# Force quit applications in Linux
 
 **Xkill** is the best program to force quit or kill an app, that just crashed.
 This is more useful than `pkill` or `killcall` command, as it seems to 

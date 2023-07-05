@@ -1,4 +1,4 @@
-## How to make symlinks in Linux/BSD 
+# How to make symlinks in Linux/BSD 
 
 The command is:
 ```bash

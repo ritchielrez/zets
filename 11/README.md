@@ -1,4 +1,4 @@
-## Zathura
+# Zathura
 
 **Zathura** is a pdf viewer, which is
 

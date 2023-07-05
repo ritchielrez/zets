@@ -1,4 +1,4 @@
-## Cursor themes on Linux
+# Cursor themes on Linux
 
 Installing and then setting a cursor theme might be tricky in a Tiling 
 Windows Manager. Normally, after download the zip file of your cursor

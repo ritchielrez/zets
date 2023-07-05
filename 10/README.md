@@ -1,4 +1,4 @@
-## Weather python script
+# Weather python script
 
 This is the **python weather script** that I use personally, https://gitlab.com/thelinuxcast/scripts/-/blob/master/weather.py#modal-confirm-fork-webide. 
 This script requires the `requests` module, and an **Openweather** api key, which you need to sign in for in **Openweather**'s website. After getting the key, paste it in the right spot in the script.     

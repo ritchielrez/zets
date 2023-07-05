@@ -1,4 +1,4 @@
-## Restart KDE Plasma (*terminal* method)
+# Restart KDE Plasma (*terminal* method)
 
 To restart **KDE Plasma** from the terminal, run this command:
 

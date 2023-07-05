@@ -1,4 +1,4 @@
-## Window titles and classes in i3wm
+# Window titles and classes in i3wm
 
 OMG, TerminalForLife is awesome, a great resource to learn stuff
 about Linux and i3wm. His [i3wm config](https://github.com/terminalforlife/i3Config) is just lit.

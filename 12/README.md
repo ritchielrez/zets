@@ -1,4 +1,4 @@
-## Pacman is in use error
+# Pacman is in use error
 
 **Pacman is in use error** is an common error in Arch Linux. 
 This happened when you force quit from an `pacman` proccess.

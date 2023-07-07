@@ -1,5 +1,6 @@
-* 2023-07-07 13:00:45Z [How to get volume from `pactl`](../21)
 * 2023-07-07 18:13:58Z [Human perception of screen brightness](../22)
+* 2023-07-07 19:22:08Z [How to remove brackets from strings](../23)
+* 2023-07-07 13:00:45Z [How to get volume from `pactl`](../21)
 * 2023-07-05 22:38:13Z [How to install nwg-look in Debian 12](../20)
 * 2023-07-05 21:16:20Z [How to install azote in Debian 12](../19)
 * 2023-07-05 16:19:12Z [How to install eww in Debian 12](../18)

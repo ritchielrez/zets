@@ -7,10 +7,10 @@ your GTK, icon and cursor theme reliably globally in *Wayland*. This works the b
 Just download the latest tarball from the releases page of **nwg-look's** Github page. Extract it to a folder.
 Then copy files from the following folder to the following destinations:
 ```
-nwg-look               -> /usr/local/bin/nwg-look
-langs/                 -> /usr/share/nwg-look/langs/
-stuff/main.glade       -> /usr/share/nwg-look/main.glade
-stuff/nwg-look.desktop -> /usr/share/applications/nwg-look.desktop
+sudo cp nwg-look /usr/local/bin/nwg-look
+sudo cp -rf langs/ /usr/share/nwg-look/langs/
+sudo cp stuff/main.glade /usr/share/nwg-look/main.glade
+sudo cp stuff/nwg-look.desktop /usr/share/applications/nwg-look.desktop
 ```
 
 Run `GTK Settings` from your applications menu, **nwg-look** should launch now, enjoy!!

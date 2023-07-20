@@ -1,3 +1,4 @@
+* 2023-07-20 15:56:58Z [How to remove snapd completely from Ubuntu](../26)
 * 2023-07-10 18:52:04Z [How to reload Hyprland config](../24)
 * 2023-07-07 13:22:08Z [How to remove brackets from strings](../23)
 * 2023-07-07 12:13:58Z [Human perception of screen brightness](../22)

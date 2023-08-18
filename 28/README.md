@@ -1,6 +1,6 @@
 # How to pass arrays into functions and print them in C
 
-Right in the start, let's explain why code the below does not work.
+Right at the start, let's explain why code the below does not work.
 ```cpp
 #include <iostream>
 

@@ -1,3 +1,4 @@
+* 2023-08-19 18:07:02Z [Pointer arithmetic of arrays](../30)
 * 2023-08-18 20:35:15Z [How to pass arrays into functions and print them in C](../28)
 * 2023-08-05 16:15:37Z [Cmake project options](../27)
 * 2023-07-20 15:56:58Z [How to remove snapd completely from Ubuntu](../26)
